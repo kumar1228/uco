@@ -62,7 +62,7 @@
       </plugins>
     </pluginManagement>
   </build>
-<distributionManager>
+<distributionManagement>
 <repository>
 <id>test</id>
 <name>ucorelease</name>
@@ -73,5 +73,5 @@
 <name>uco-snapshot</name>
 <url>http://54.214.110.192:8080/nexus-latest/content/repositories/snapshots/</url>
 </snapshotRepository>
-</distributionManager>
+</distributionManagement>
 </project>
