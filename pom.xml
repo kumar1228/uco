@@ -66,12 +66,12 @@
 <repository>
 <id>test</id>
 <name>ucorelease</name>
-<url>http://54.214.110.192:8080/nexus-latest/content/repositories/releases/</url>
+<url>http://54.213.140.62:8080/nexus-latest/content/repositories/releases/</url>
 </repository>
 <snapshotRepository>
 <id>test</id>
 <name>uco-snapshot</name>
-<url>http://54.214.110.192:8080/nexus-latest/content/repositories/snapshots/</url>
+<url>http://54.213.140.62:8080/nexus-latest/content/repositories/snapshots/</url>
 </snapshotRepository>
 </distributionManagement>
 </project>
